@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "76826674926",
+    "project_id": "secondhandbazaar-b2ebe",
+    "storage_bucket": "secondhandbazaar-b2ebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76826674926:android:32afca2534ca7d94cf55ff",
+        "android_client_info": {
+          "package_name": "com.mycompany.secondhandbazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76826674926-3jesctqppirq9hom1jhhf8drpohcokou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.secondhandbazaar",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "76826674926-k1guav2kfqpkap0pbn0q52vkkbluig7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.secondhandbazaar",
+            "certificate_hash": "14ff70b00100295b20004a1836330803991ee72e"
+          }
+        },
+        {
+          "client_id": "76826674926-th044mdot8ej9lubsbj00m9tkm196bnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlfTXFIAhfm8jLwBMWzLmE0jROh5pm3M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76826674926-th044mdot8ej9lubsbj00m9tkm196bnp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76826674926-qaivr9los6ois21fnnbvcha50pcncqpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.secondhandbazaar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
