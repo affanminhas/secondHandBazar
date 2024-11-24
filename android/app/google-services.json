@@ -22,11 +22,79 @@
           }
         },
         {
+          "client_id": "76826674926-5hsnrp07pbluku5r3fh8thupk83fu0th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.secondhandbazaar",
+            "certificate_hash": "8120a3b2559af3d57c293a9181f7ef506947ee45"
+          }
+        },
+        {
           "client_id": "76826674926-k1guav2kfqpkap0pbn0q52vkkbluig7s.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.mycompany.secondhandbazaar",
             "certificate_hash": "14ff70b00100295b20004a1836330803991ee72e"
+          }
+        },
+        {
+          "client_id": "76826674926-th044mdot8ej9lubsbj00m9tkm196bnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlfTXFIAhfm8jLwBMWzLmE0jROh5pm3M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76826674926-th044mdot8ej9lubsbj00m9tkm196bnp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76826674926-qaivr9los6ois21fnnbvcha50pcncqpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.secondhandbazaar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76826674926:android:d8ed36e9c5ced1bdcf55ff",
+        "android_client_info": {
+          "package_name": "com.shb.secondhandbazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76826674926-09sbm719v8jkoii0gl1ilgauk90r31r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shb.secondhandbazaar",
+            "certificate_hash": "14ff70b00100295b20004a1836330803991ee72e"
+          }
+        },
+        {
+          "client_id": "76826674926-3qhdg409qc2hjmumkopofbsrp4ril2dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shb.secondhandbazaar",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "76826674926-sepdb2apajelel51n2j6qf4neku2ak1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shb.secondhandbazaar",
+            "certificate_hash": "8120a3b2559af3d57c293a9181f7ef506947ee45"
           }
         },
         {
